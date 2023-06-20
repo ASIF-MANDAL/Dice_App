@@ -1,4 +1,4 @@
-package com.fun.dice
+package com.fanmade.dice
 
 import io.flutter.embedding.android.FlutterActivity
 

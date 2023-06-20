@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fun.dice">
+    package="com.fanmade.dice">
    <application
         android:label="dice"
         android:name="${applicationName}"
