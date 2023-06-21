@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
           backgroundColor: Colors.black,
           appBar: AppBar(
             backgroundColor: Colors.black,
-            title: Center(child: Text("Dice App")),
+            title: Center(child: Text("Dice_App")),
           ),
           body: Center(
             child: GestureDetector(
